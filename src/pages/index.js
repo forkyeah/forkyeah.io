@@ -1,74 +1,61 @@
-import React from "react"
-import { Link, graphql } from "gatsby"
+import React from 'react'
+// import Link from 'gatsby-link'
+// import banner from './forkyeah-banner.png';
+// import './index.css';
 
-import Bio from "../components/bio"
-import Layout from "../components/layout"
-import SEO from "../components/seo"
-import { rhythm } from "../utils/typography"
+class Index extends React.Component {
 
-class BlogIndex extends React.Component {
   render() {
-    const { data } = this.props
-    const siteTitle = data.site.siteMetadata.title
-    const posts = data.allMarkdownRemark.edges
+    return(
+      <div>
+      {//<img src={banner} />
+    }
 
-    return (
-      <Layout location={this.props.location} title={siteTitle}>
-        <SEO
-          title="All posts"
-          keywords={[`blog`, `gatsby`, `javascript`, `react`]}
-        />
-        <Bio />
-        {posts.map(({ node }) => {
-          const title = node.frontmatter.title || node.fields.slug
-          return (
-            <div key={node.fields.slug}>
-              <h3
-                style={{
-                  marginBottom: rhythm(1 / 4),
-                }}
-              >
-                <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
-                  {title}
-                </Link>
-              </h3>
-              <small>{node.frontmatter.date}</small>
-              <p
-                dangerouslySetInnerHTML={{
-                  __html: node.frontmatter.description || node.excerpt,
-                }}
-              />
+      <div id="mc_embed_signup">
+        <form
+          action="https://jarednielsen.us14.list-manage.com/subscribe/post?u=7bb2004f13affd3cd65365d9e&amp;id=d1b93f05d3"
+          method="post"
+          id="mc-embedded-subscribe-form"
+          name="mc-embedded-subscribe-form"
+          className="validate"
+          target="_blank"
+          novalidate
+        >
+          <div id="mc_embed_signup_scroll">
+      	    <label htmlFor="mce-EMAIL">
+              <h2>Fork your Inbox. It's good for you.</h2>
+              <p>Feed your head with gluten-free, sugar-free, soy-free, vegan recipes delivered weekly.</p>
+            </label>
+      	    <input
+              type="email"
+              value={null}
+              name="EMAIL"
+              className="email"
+              id="mce-EMAIL"
+              placeholder="email address"
+              // required
+            />
+              {/*for the bots*/}
+               <div
+                 aria-hidden="true"
+                 style={{position: 'absolute', left: '-5000px'}}
+                >
+                 <input
+                   type="text"
+                   name="b_7bb2004f13affd3cd65365d9e_d1b93f05d3"
+                   tabindex="-1"
+                   value=""
+                 />
+               </div>
+            {/*for the peeps*/}
+            <div className="clear">
+              <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" className="button" />
             </div>
-          )
-        })}
-      </Layout>
+          </div>
+      </form>
+      </div>
+    </div>
     )
   }
 }
-
-export default BlogIndex
-
-export const pageQuery = graphql`
-  query {
-    site {
-      siteMetadata {
-        title
-      }
-    }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
-      edges {
-        node {
-          excerpt
-          fields {
-            slug
-          }
-          frontmatter {
-            date(formatString: "MMMM DD, YYYY")
-            title
-            description
-          }
-        }
-      }
-    }
-  }
-`
+export default Index;
