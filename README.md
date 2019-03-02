@@ -1,3 +1,7 @@
+# Fork Yeah!
+
+![Fork Yeah!](./images/forkyeah-venn.png)
+
 ## What is Fork Yeah!?
 
 Fork Yeah! merges cooking, computer science and activism. If you’re not interested in any of those, you’re in the wrong place. Beat it.
