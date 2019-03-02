@@ -1,13 +1,18 @@
 ---
-title: Vegan Bulletproof Coffee, Glorious Excess
+title: Vegan Bulletproof Coffee
 date: "2019-03-08"
 description: Make yourself impervious with vegan 'bulletproof' coffee
 keywords: ['vegan', 'coffee', 'bulletproof']
 ---
 
-![Vegan Coffee](./forkyeah-vegan-coffee.png)
+![Fork Yeah Vegan Bulletproof Coffee](./forkyeah-vegan-bulletproof-coffee.png)
 
 @TODO SEO introduction
+
+Impatient? Haven't had your coffee yet? Had too much? [Fork the recipe on GitHub](https://github.com/nielsenjared/forkyeah/blob/master/recipes/coffee.md).
+
+
+## Glorious Excess
 
 I don’t drink coffee because it makes me productive.
 
@@ -41,13 +46,13 @@ I still struggle.
 
 Let me break it down in a table...
 
-| CONS                                          | PROS |
-| ----                                          | ---- |
-| It’s an unnecessary luxury.                   | It’s delicious.  |
-| It makes me shit a lot.                       | I feel smart. |
+| CONS                                          | PROS              |
+| ----                                          | ----              |
+| It’s an unnecessary luxury.                   | It’s delicious.   |
+| It makes me shit a lot.                       | I feel smart.     |
 | It makes me an irritable, impatient asshole.  | I get shit done.  |
-| It gives me bad breath.                       | It’s communal.  |
-| It keeps me up at night.                      | I love it.  |
+| It gives me bad breath.                       | It’s communal.    |
+| It keeps me up at night.                      | I love it.        |
 
 Some relationships are more challenging than others.
 
@@ -226,7 +231,7 @@ Keep that brain well-oiled.
 
 Add coconut oil to your coffee.
 
-## Vegan Bulletproof Coffees
+## Vegan Bulletproof Coffee
 
 Are you coffee/caffeine sensitive, like me? Looking to take it to the next level?
 
@@ -269,20 +274,20 @@ Set yourself up for success.
 
 ### Ingredients
 
-* High quality beans (shade-grown, fair-trade, wet-processed, organic * preferred)
+* High quality beans (shade-grown, fair-trade, wet-processed, organic preferred)
 * Coconut butter, or manna
 * Walnut or hemp oil (optional)
 
 
 ### Equipment
 
-* Your preferred method for brewing coffee. I use a hand-cranked burr * grinder and a porcelain filter cone with unbleached filters
+* Your preferred method for brewing coffee. I use a [hand-cranked burr grinder](https://amzn.to/2TbGYLm) and a [porcelain filter cone](https://amzn.to/2GTmyQV) with [unbleached filters](https://amzn.to/2C19CV8)
 * Blender
 * Measuring spoons (optional)
 
 
 ### Procedure
-1. Grind then brew the beans
+1. Grind, then brew the beans
 2. While the coffee percolates, measure into the blender:
   * 1-2 T coconut butter (or eyeball it)
   * 1-2 t walnut or hemp oil (or guesstimate)
@@ -290,4 +295,6 @@ Set yourself up for success.
 
 Fork Yeah!
 
-_Fork this recipe on [GitHub](./)_
+_Fork this recipe on [GitHub](https://github.com/nielsenjared/forkyeah/blob/master/recipes/coffee.md)_
+
+_Disclaimer: Amazon links are affiliate._
