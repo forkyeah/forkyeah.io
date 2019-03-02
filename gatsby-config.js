@@ -2,10 +2,11 @@ module.exports = {
   siteMetadata: {
     title: `Fork Yeah`,
     author: `Jared Nielsen`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Feed your head with gluten-free, sugar-free, vegan recipes.`,
     siteUrl: `https://forkyeah.io`,
     social: {
       twitter: `forkyeah`,
+      mailchimp: 'http://eepurl.com/cDweO5'
     },
   },
   plugins: [

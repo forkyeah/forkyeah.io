@@ -3,14 +3,13 @@ import Layout from "../components/layout"
 
 // import Link from 'gatsby-link'
 import banner from './forkyeah-banner.png';
-// import './index.css';
+import './index.css';
 
 class Index extends React.Component {
 
   render() {
     return(
       <Layout location={this.props.location}>
-        <div>
         <img src={banner} />
 
         <div id="mc_embed_signup">
@@ -55,8 +54,9 @@ class Index extends React.Component {
               </div>
             </div>
         </form>
+        <p style={{textAlign: "center"}}
+        >Skeptical? <a href="">View the archive.</a> Or <a href="https://github.com/nielsenjared/forkyeah">fork the repository.</a></p>
         </div>
-      </div>
     </Layout>
     )
   }
