@@ -2,9 +2,10 @@
 title: Go Fork, Do Great Things
 date: "2019-03-01"
 description: Fork Yeah! merges cooking, computer science and activism. If you’re not interested in any of those, you’re in the wrong place. Beat it.
+keywords: ['vegan', 'fork', 'git', 'github']
 ---
 
-![](./salty_egg.jpg)
+![](./forkyeah.png)
 
 > ESTRAGON: I can't go on like this.
 >
