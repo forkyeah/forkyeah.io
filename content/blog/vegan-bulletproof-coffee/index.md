@@ -9,7 +9,7 @@ keywords: ['vegan', 'coffee', 'bulletproof']
 
 @TODO SEO introduction
 
-Impatient? Haven't had your coffee yet? Had too much? [Fork the recipe on GitHub](https://github.com/nielsenjared/forkyeah/blob/master/recipes/coffee.md).
+Impatient? Haven't had your coffee yet? Had too much? [Fork the recipe on GitHub](https://github.com/forkyeah/forkyeah/blob/master/recipes/coffee.md).
 
 
 ## Glorious Excess
