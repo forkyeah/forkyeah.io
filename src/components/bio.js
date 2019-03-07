@@ -39,7 +39,7 @@ function Bio() {
             />
             <p>
               Get smart as fork: {` `}
-              <a href='http://eepurl.com/cDweO5>'>
+              <a href='http://eepurl.com/cDweO5'>
                 sign up for the newsletter.
               </a>
             </p>

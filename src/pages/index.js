@@ -55,7 +55,7 @@ class Index extends React.Component {
             </div>
         </form>
         <p style={{textAlign: "center"}}
-        >Skeptical? <a href="">View the archive.</a> Or <a href="https://github.com/nielsenjared/forkyeah">fork the repository.</a></p>
+        >Skeptical? <a href="">View the archive.</a> Or <a href="https://github.com/forkyeah/forkyeah">fork yourself.</a></p>
         </div>
     </Layout>
     )
