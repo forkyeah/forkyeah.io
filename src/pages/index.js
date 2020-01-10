@@ -1,6 +1,8 @@
 import React from 'react'
 import Layout from "../components/layout"
 
+import SEO from '../components/seo'
+
 // import Link from 'gatsby-link'
 import banner from './forkyeah-banner.png';
 import './index.css';
@@ -10,7 +12,9 @@ class Index extends React.Component {
   render() {
     return(
       <Layout location={this.props.location}>
-        <img src={banner} />
+        <SEO title="Fork Yeah!" keywords={['fork yeah', 'vegan', 'gluten-free', 'sugar-free', 'recipes']} />
+
+        <img src={banner} alt={""}/>
 
         <div id="mc_embed_signup">
           <form

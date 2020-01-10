@@ -1,18 +1,16 @@
 ---
 title: How to Make Almond Milk
-date: "2020-01-09"
-description: 
-keywords: ['diy', 'almond', 'milk']
+date: "2020-01-10"
+description: Want superior almond milk? Make this recipe.
+keywords: ['almond milk', 'almond', 'milk', 'make']
 ---
 ![]()
 
-Total time: ~12 hrs.
+Want superior almond milk? Make this recipe.
 
-Active time: 15 min.
-
-Serving(s): 4 C.
-
-Skill level: Beginner
+| Total time    | Active time   | Serving(s)    | Skill level   |
+|---            |---            |---            |---            |
+| ~12 hrs.      | 15. min       | 4 C.          | Beginner      |
 
 
 ## Equipment
@@ -44,7 +42,3 @@ Skill level: Beginner
 6. Serve immediately or store for up to a week. Shake well before enjoying.
 
 Fork yeah!
-
----
-
-_This recipe forked from [_Whole Food Cooking Every Day_ by Amy Chaplin](https://amzn.to/39RHL98)_

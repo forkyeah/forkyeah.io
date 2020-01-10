@@ -4,15 +4,7 @@ date: "2019-03-08"
 description: Make yourself impervious with vegan 'bulletproof' coffee
 keywords: ['vegan', 'coffee', 'bulletproof']
 ---
-
 ![Fork Yeah Vegan Bulletproof Coffee](./forkyeah-vegan-bulletproof-coffee.png)
-
-@TODO SEO introduction
-
-Impatient? Haven't had your coffee yet? Had too much? [Fork the recipe on GitHub](https://github.com/forkyeah/forkyeah/blob/master/recipes/coffee.md).
-
-
-## Glorious Excess
 
 I don’t drink coffee because it makes me productive.
 
@@ -196,7 +188,6 @@ Rarely.
 
 So you’re a coffee drinker. You can’t let it go. Not only is it a part of your identity, your brain and bowels depend on it.
 
-@TODO cut?
 You wear a bracelet:
 
 In case of emergency, IV 400mg caffeine. Otherwise, do not resuscitate.
@@ -205,7 +196,7 @@ We speak the same language.
 
 Just like the fuel pump, there are three octanes, or waves, of coffee.
 
-@TODO heading?
+## Coffee Waves
 
 The first wave is the crap our parents drank, and maybe still drink. Diner coffee, garage coffee. Sludge. Think Folgers, Maxwell House, Juan Valdez. Black sawdust in big cans. The only thing good about first wave is the cans for use as budget urns.
 
